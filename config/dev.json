@@ -1,0 +1,5 @@
+{
+    "ipfsFile": {
+        "location": "../data/ipfsHash.json"
+      }
+}
