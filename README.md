@@ -9,6 +9,7 @@ https://testnets.opensea.io/assets/0x1e9930Bc5f39dE0515BeC52612bc4510F7B236C0/1
 
 https://testnets.opensea.io/assets/0xD6c24c9A49271bFe5a04B00363EB521a02768bA1/1
 
+<img width="1332" alt="Screenshot 2021-09-05 at 8 44 23 PM" src="https://user-images.githubusercontent.com/4893002/132132564-b0fb8524-3035-4e61-85db-17e5fda1fad6.png">
 
 Follow the Youtube tutorial here:
 
