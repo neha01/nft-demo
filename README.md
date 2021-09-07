@@ -11,10 +11,10 @@ https://testnets.opensea.io/assets/0xD6c24c9A49271bFe5a04B00363EB521a02768bA1/1
 
 <img width="1332" alt="Screenshot 2021-09-05 at 8 44 23 PM" src="https://user-images.githubusercontent.com/4893002/132132564-b0fb8524-3035-4e61-85db-17e5fda1fad6.png">
 
-Follow the Youtube tutorial here:
+## Follow the Youtube tutorial here:  
+[![MINT NFT TUTORIAL](https://img.youtube.com/vi/axdymRYSHTs/0.jpg)](https://www.youtube.com/watch?v=axdymRYSHTs)
 
-
-Dependencies:
+### Dependencies:
 * `NodeJS`   
 https://nodejs.org/en/download/
 * `Ganache UI`  
@@ -22,7 +22,7 @@ https://www.trufflesuite.com/ganache
 
 (Ganache UI is not required in case you want to work with ganache-cli)
 
-Usage:
+### Usage:
 1. Clone the repo and run npm install.  
 `git clone https://github.com/neha01/nft-demo.git && cd nft-demo && npm install`
 
