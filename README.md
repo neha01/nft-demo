@@ -51,13 +51,16 @@ https://www.trufflesuite.com/ganache
    Run `migrate` command to deploy the contract on Rinkeby testnet.  
    Run `let art = await ArtCollectible.deployed()`. 
    Run `await art.claimItem('https://ipfs.io/ipfs/QmREBUVuoeX39eB9KiQjp25RFr2dhYF6zawpYXq1UPJXEz')`   
-   Pass the correct metadata file IPFShash to claimItem.  
+   Pass the correct metadata file IPFS address to claimItem.  
    Run `art.address` to get contract address.  
 
 8. Checkout your NFT on 
-  `https://testnets.opensea.io/assets/contract_address/tokenId`
+  `https://testnets.opensea.io/assets/contract_address/tokenId`.   
+   You can also verify your metadata using on https://rinkeby-api.opensea.io/asset/contract_address/tokenId/validate     
+   eg: https://rinkeby-api.opensea.io/asset/0x1e9930Bc5f39dE0515BeC52612bc4510F7B236C0/1/validate
+  
 
-🥳🥳
+   Party!!🥳🥳
 
 
 
