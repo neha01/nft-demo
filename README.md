@@ -49,7 +49,7 @@ https://www.trufflesuite.com/ganache
    Update your account mnemonic in `.env` file.  
    Now run `truffle console --network rinkeby` to connect to Rinkeby Public test network.  
    Run `migrate` command to deploy the contract on Rinkeby testnet.  
-   Run `let art = await ArtCollectible.deployed()`. 
+   Run `let art = await ArtCollectible.deployed()`.    
    Run `await art.claimItem('https://ipfs.io/ipfs/QmREBUVuoeX39eB9KiQjp25RFr2dhYF6zawpYXq1UPJXEz')`   
    Pass the correct metadata file IPFS address to claimItem.  
    Run `art.address` to get contract address.  
