@@ -71,4 +71,8 @@ contract ArtCollectible is Ownable, ERC721 {
         _setTokenURI(newItemId, tokenURI);
         return newItemId;
     }
+
+    function totalSupply() public view returns (uint256) {
+        return _tokenIds.current();
+    }
 }
